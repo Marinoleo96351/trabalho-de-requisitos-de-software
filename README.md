@@ -3,27 +3,28 @@
 
 Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Software da UTFPR - Campus Cornélio Procópio. 
 
-Link do Padlet:
+Link do Padlet: https://padlet.com/fabmat/kanban-do-preveagro-p4amcsy7d2ykaevn
 
 ## 1. Introdução
 
 ***1.1.  Nome do Grupo***
-
-Indicar o nome e github dos integrantes do grupo
+Fabio Eizo Matsumoto - Fabio Eizo Matsumoto
+Eduardo Caversan da Silva Rocha - EduardoCaversan
+Vinicius Luiz Andretta Ferracini - vinifandretta
+Leonardo Marino Scarparo Silva - Marinoleo96351
+Arthur Henrique de Melo Almeida - ArthurHenrique2006-stack
 
 ***1.2.  Nome do Sistema***
 
-Indicar o nome do software proposto
+PreveAgro
 
 ***1.3.  Propósito do Sistema***
 
-Este documento apresenta os requisitos dos usuários a serem desenvolvidos pela *`nome da empresa`*, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
-
-O objetivo do sistema `nome do sistema` é .... *<Descrever aqui o objetivo do sistema que será desenvolvido, principais características, benefícios, problemas que o sistema ajudará a resolver, o comportamento principal do sistema, etc.>*
+Ajudar os pequenos produtores rurais a saberem qual o melhor momento para vender as commodities.
 
 ***1.2.  Público Alvo***
 
-Este documento se destina aos arquitetos de software, engenheiros de software, testadores, clientes... *<descrever aqui se existir mais interessados e que participarão do desenvolvimento do sistema>*
+Pequenos produtores rurais.
 
 ***1.3. Descrição dos usuários***
 
