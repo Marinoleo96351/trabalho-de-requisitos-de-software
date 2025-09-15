@@ -9,9 +9,13 @@ Link do Padlet: https://padlet.com/fabmat/kanban-do-preveagro-p4amcsy7d2ykaevn
 
 ***1.1.  Nome do Grupo***
 Fabio Eizo Matsumoto - Fabio Eizo Matsumoto
+
 Eduardo Caversan da Silva Rocha - EduardoCaversan
+
 Vinicius Luiz Andretta Ferracini - vinifandretta
+
 Leonardo Marino Scarparo Silva - Marinoleo96351
+
 Arthur Henrique de Melo Almeida - ArthurHenrique2006-stack
 
 ***1.2.  Nome do Sistema***
